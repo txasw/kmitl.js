@@ -28,9 +28,9 @@ These scripts are intended for power users and are executed directly in your bro
 
 Each file contains a single, self-contained JavaScript script for a specific enhancement.
 
-| Script File | Description | Target Site | **Target URL** | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| `group_course_sections.js` | Transforms the flat subject table into a clean, grouped list view (Accordion style), consolidating all sections under one course code. | Regis | `https://regis.reg.kmitl.ac.th/#/teach_table?*` | **[View Script: group_course_sections.js](group_course_sections.js)** |
+| Script File | **Target URL** | Description | 
+| :--- | :--- | :--- |
+| [`group_course_sections.js`](./scripts/group_course_sections.js) | `https://regis.reg.kmitl.ac.th/#/teach_table?*` | Transforms the flat subject table into a clean, grouped list view (Accordion style), consolidating all sections under one course code. |
 
 
 ---
