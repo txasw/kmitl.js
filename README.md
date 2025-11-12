@@ -30,7 +30,7 @@ Each file contains a single, self-contained JavaScript script for a specific enh
 
 | Script File | Description | Target Site | **Target URL** | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| `brabra.js` | Placeholder for first commit. | General Websites | `*` | **[View Script: brabra.js]** |
+| `group_course_sections.js` | Transforms the flat subject table into a clean, grouped list view (Accordion style), consolidating all sections under one course code. | Regis | `https://regis.reg.kmitl.ac.th/#/teach_table?*` | **[View Script: group_course_sections.js]** |
 
 
 ---
