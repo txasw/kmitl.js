@@ -31,6 +31,7 @@ Each file contains a single, self-contained JavaScript script for a specific enh
 | Script File | **Target URL** | Description | 
 | :--- | :--- | :--- |
 | [`group_course_sections.js`](./scripts/group_course_sections.js) | `https://regis.reg.kmitl.ac.th/#/teach_table?*` | Transforms the flat subject table into a clean, grouped list view (Accordion style), consolidating all sections under one course code. |
+| [`osda_event_bot.js`](./scripts/osda_event_bot.js) | `[https://event.osda.kmitl.ac.th/backend/event/xxxxx/transcript](https://event.osda.kmitl.ac.th/backend/event/xxxxx/transcript)` | A script that automates the bulk addition of student activity hours on the OSDA KMITL system by instantly processing a pasted list of student IDs.
 
 
 ---
